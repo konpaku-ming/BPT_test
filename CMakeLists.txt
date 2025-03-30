@@ -3,5 +3,5 @@ project(BPT_for_ticketsystem)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(codde main.cpp
+add_executable(code main.cpp
         tool.cpp)
