@@ -8,8 +8,8 @@ int main() {
   std::cin.tie(nullptr);
   std::cout.tie(nullptr);
   BPT bpt;
-  freopen("test.in", "r",stdin);
-  freopen("test.out", "w",stdout);
+  //freopen("test.in", "r",stdin);
+  //freopen("test.out", "w",stdout);
   int n;
   cin >> n;
   for (int i = 0; i < n; i++) {
